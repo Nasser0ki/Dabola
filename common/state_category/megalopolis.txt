@@ -1,0 +1,11 @@
+state_categories = {
+megalopolis = {
+	local_building_slots = 13
+	local_supplies = 0.15
+		color = { 0 240 240 }
+		buildings_max_level = {
+        air_base = 6
+    }
+
+}
+}

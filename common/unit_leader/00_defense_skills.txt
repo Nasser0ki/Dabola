@@ -1,0 +1,290 @@
+leader_defense_skills = {
+
+	### NAVY ###
+	1 = {
+		cost = 200
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.02
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0125
+			screening_efficiency = 0.015
+		}
+	}
+
+	2 = {
+		cost = 400
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.04
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.025
+			screening_efficiency = 0.03
+		}
+	}
+
+	3 = {
+		cost = 800
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.06
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0325
+			screening_efficiency = 0.045
+		}
+	}
+
+	4 = {
+		cost = 1600
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.08
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.05
+			screening_efficiency = 0.06
+		}
+	}
+
+	5 = {
+		cost = 3200
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.1
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0625
+			screening_efficiency = 0.075
+		}
+	}
+
+	6 = {
+		cost = 6400
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.12
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.075
+			screening_efficiency = 0.09
+		}
+	}
+
+	7 = {
+		cost = 12800
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.14
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.0825
+			screening_efficiency = 0.105
+		}
+	}
+
+	8 = {
+		cost = 25600
+		type = navy
+		modifier = {
+			naval_defense_factor = 0.16
+		}
+		building_module_modifier = {
+			naval_enemy_fleet_size_ratio_penalty_factor = 0.1
+			screening_efficiency = 0.12
+		}
+	}
+	
+
+	### Corps Commander ###
+	1 = {
+		cost = 100
+		type = corps_commander
+		modifier = {
+			defence = 0.02
+		}
+	}
+	
+	
+	2 = {
+		cost = 200
+		type = corps_commander
+		modifier = {
+			defence = 0.04
+		}
+	}
+	
+	
+	3 = {
+		cost = 400
+		type = corps_commander
+		modifier = {
+			defence = 0.06
+		}
+	}
+	
+	4 = {
+		cost = 800
+		type = corps_commander
+		modifier = {
+			defence = 0.08
+		}
+	}
+	
+	5 = {
+		cost = 1600
+		type = corps_commander
+		modifier = {
+			defence = 0.1
+		}
+	}
+
+	6 = {
+		cost = 3200
+		type = corps_commander
+		modifier = {
+			defence = 0.12
+		}
+	}	
+
+	7 = {
+		cost = 6400
+		type = corps_commander
+		modifier = {
+			defence = 0.14
+		}
+	}	
+
+	8 = {
+		cost = 12800
+		type = corps_commander
+		modifier = {
+			defence = 0.16
+		}
+	}	
+	9 = {
+		cost = 19200
+		type = corps_commander
+		modifier = {
+			defence = 0.18
+		}
+	}
+	10 = {
+		cost = 25600
+		type = corps_commander
+		modifier = {
+			defence = 0.2
+		}
+	}
+	11 = {
+		cost = 32000
+		type = corps_commander
+		modifier = {
+			defence = 0.22
+		}
+	}
+	12 = {
+		cost = 38400
+		type = corps_commander
+		modifier = {
+			defence = 0.24
+		}
+	}
+	
+	### Field Marshal ###
+	1 = {
+		cost = 100
+		type = field_marshal
+		modifier = {
+			defence = 0.02
+		}
+	}
+	
+	
+	2 = {
+		cost = 200
+		type = field_marshal
+		modifier = {
+			defence = 0.04
+		}
+	}
+	
+	
+	3 = {
+		cost = 400
+		type = field_marshal
+		modifier = {
+			defence = 0.06
+		}
+	}
+	
+	4 = {
+		cost = 800
+		type = field_marshal
+		modifier = {
+			defence = 0.08
+		}
+	}
+	
+	5 = {
+		cost = 1600
+		type = field_marshal
+		modifier = {
+			defence = 0.1
+		}
+	}
+
+	6 = {
+		cost = 3200
+		type = field_marshal
+		modifier = {
+			defence = 0.12
+		}
+	}	
+
+	7 = {
+		cost = 6400
+		type = field_marshal
+		modifier = {
+			defence = 0.14
+		}
+	}	
+
+	8 = {
+		cost = 12800
+		type = field_marshal
+		modifier = {
+			defence = 0.16
+		}
+	}	
+	9 = {
+		cost = 19200
+		type = field_marshal
+		modifier = {
+			defence = 0.18
+		}
+	}
+	10 = {
+		cost = 25600
+		type = field_marshal
+		modifier = {
+			defence = 0.2
+		}
+	}
+	11 = {
+		cost = 32000
+		type = field_marshal
+		modifier = {
+			defence = 0.22
+		}
+	}
+	12 = {
+		cost = 38400
+		type = field_marshal
+		modifier = {
+			defence = 0.24
+		}
+	}
+}
